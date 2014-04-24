@@ -12,7 +12,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by Algerd on 24.04.14.
+ * Function to return the current thread number.
+ * @since 1.X
  */
 public class AllActiveThreadsNum extends AbstractFunction {
 
