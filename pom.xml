@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>co.uk.bugtrap</groupId>
-  <artifactId>JMeterWebSocketSampler</artifactId>
+  <artifactId>JMeterAllThreadsFunction</artifactId>
   <version>1.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
