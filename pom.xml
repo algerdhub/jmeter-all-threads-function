@@ -7,7 +7,7 @@
   <version>1.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>JMeterWebSocketSampler</name>
+  <name>JMeterAllThreadsFunction</name>
   <url>http://maven.apache.org</url>
     <build>
         <plugins>
@@ -25,5 +25,13 @@
     <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.jmeter</groupId>
+            <artifactId>ApacheJMeter_functions</artifactId>
+            <version>2.10</version>
+        </dependency>
+    </dependencies>
 
 </project>
